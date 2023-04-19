@@ -1,0 +1,79 @@
+#content{
+	width:100%;
+	margin:5px;
+}
+header{
+	background:antiquewhite;
+	color:black;
+	padding:5px;
+	text-align:center;
+}
+main{
+	background:lavenderblush;
+	padding:5px;
+}
+#main-nav{
+	background:antiquewhite;
+	padding:5px;
+}
+footer{
+	background:antiquewhite;
+	text-align:center;
+	padding:5px;
+}
+.hidden{
+	display:none;
+}
+
+#showMore{
+	display:none;
+}
+#tree{
+	height:300px;
+	width:100%;
+}
+.results{
+	width:50%;
+	display:grid;
+	padding:5px;
+}
+.hidden{
+	display:none;
+}
+.naturePics img{
+	width:450px;
+	height:400px;
+}
+.smallPic img{
+	width:200px;
+	height:200px;
+}
+.naturePics{
+	text-align:center;
+	padding:5px;
+}
+.smallPic{
+	text-align:center;
+	padding:5px;
+}
+
+
+
+
+/*Navigation*/
+#main-nav ul{
+	list-style-type:none;
+	text-align:center;
+}
+#main-nav li{
+	display:inline;
+}
+#main-nav a{
+	background:lavender;
+	padding:5px;
+	border-radius:2px;
+}
+#main-nav a:hover{
+	background:lightsteelblue;
+	color:color;
+}
